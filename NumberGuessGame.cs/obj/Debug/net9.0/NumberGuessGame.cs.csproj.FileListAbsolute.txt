@@ -1,0 +1,15 @@
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\bin\Debug\net9.0\NumberGuessGame.cs.exe
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\bin\Debug\net9.0\NumberGuessGame.cs.deps.json
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\bin\Debug\net9.0\NumberGuessGame.cs.runtimeconfig.json
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\bin\Debug\net9.0\NumberGuessGame.cs.dll
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\bin\Debug\net9.0\NumberGuessGame.cs.pdb
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\obj\Debug\net9.0\NumberGuessGame.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\obj\Debug\net9.0\NumberGuessGame.cs.AssemblyInfoInputs.cache
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\obj\Debug\net9.0\NumberGuessGame.cs.AssemblyInfo.cs
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\obj\Debug\net9.0\NumberGuessGame.cs.csproj.CoreCompileInputs.cache
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\obj\Debug\net9.0\NumberGuessGame.cs.sourcelink.json
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\obj\Debug\net9.0\NumberGuessGame.cs.dll
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\obj\Debug\net9.0\refint\NumberGuessGame.cs.dll
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\obj\Debug\net9.0\NumberGuessGame.cs.pdb
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\obj\Debug\net9.0\NumberGuessGame.cs.genruntimeconfig.cache
+C:\Users\Dell\dev\NumberGuessGame.cs\NumberGuessGame.cs\obj\Debug\net9.0\ref\NumberGuessGame.cs.dll
